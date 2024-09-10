@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "notebook": "jupyter-notebook"
+    }
+}
